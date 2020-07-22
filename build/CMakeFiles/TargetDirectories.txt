@@ -1,0 +1,3 @@
+C:/Users/ahmed/CLionProjects/lal/build/CMakeFiles/lal.dir
+C:/Users/ahmed/CLionProjects/lal/build/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/CLionProjects/lal/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ahmed/CLionProjects/lal/Matrix/matrix.h
+../errors.h
+C:/Users/ahmed/CLionProjects/lal/errors.h
+../logManager.h
+C:/Users/ahmed/CLionProjects/lal/logManager.h
+unordered_map
+-
+iomanip
+-
+matrix.tpp
+C:/Users/ahmed/CLionProjects/lal/Matrix/matrix.tpp
+
+C:/Users/ahmed/CLionProjects/lal/Matrix/matrix.tpp
+matrix.h
+C:/Users/ahmed/CLionProjects/lal/Matrix/matrix.h
+
+C:/Users/ahmed/CLionProjects/lal/errors.h
+iostream
+-
+
+C:/Users/ahmed/CLionProjects/lal/logManager.h
+iostream
+-
+fstream
+-
+
+C:/Users/ahmed/CLionProjects/lal/test-client.cpp
+Matrix/matrix.h
+C:/Users/ahmed/CLionProjects/lal/Matrix/matrix.h
+iostream
+-
+
